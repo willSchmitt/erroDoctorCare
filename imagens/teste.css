@@ -1,0 +1,21 @@
+.container{
+    height: 100%;
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+li {
+    font-size: 19px;
+}
+
+li img {
+    height: 2.5rem;
+    border-radius: 5rem;
+}
